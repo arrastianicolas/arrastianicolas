@@ -3,9 +3,9 @@
 
 ## 🤔 Sobre Mi
 
-🏢 Estudiante en Tecnicatura universitaria en Programación UTN.
-💻 Desarrollador Full Stack 
-🔍 Estoy en busca de incorporarme a un equipo de trabajo para poder aportar mis conocimientos y seguir aprendiendo
+🏢 Estudiante en Tecnicatura universitaria en Programación UTN.<br/>
+💻 Desarrollador Full Stack <br/>
+🔍 Estoy en busca de incorporarme a un equipo de trabajo para poder aportar mis conocimientos y seguir aprendiendo<br/>
 
 ## Tecnologias que uso...
 <p align="left">
