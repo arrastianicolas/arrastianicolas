@@ -27,16 +27,16 @@
 
 | Métrica             | Valor               |
 |---------------------|---------------------|
-| **Total de commits** | ![Commits](https://github-readme-stats.vercel.app/api?username=tu-usuario&count_private=true&show_icons=true&theme=radical) |
-| **Repositorios públicos** | ![Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical) |
-| **Lenguajes más usados** | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical) |
+| **Total de commits** | ![Commits](https://github-readme-stats.vercel.app/api?nicocarc04=tu-usuario&count_private=true&show_icons=true&theme=radical) |
+| **Repositorios públicos** | ![Repos](https://github-readme-stats.vercel.app/api/top-langs/?nicocarc04=tu-usuario&layout=compact&theme=radical) |
+| **Lenguajes más usados** | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?nicocarc04=tu-usuario&layout=compact&theme=radical) |
 
 ---
 
 ### 📫 ¿Cómo contactarme?
 
-- Email: [tuemail@example.com](mailto:tuemail@example.com)
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- Email: [nicolasarrastia04@gmail.com](mailto:nicolasarrastia04@gmail.com)
+- LinkedIn: [[linkedin.com/in/tuusuario](https://www.linkedin.com/in/nicolas-arrastia-00982825b/)])
 
 <!--
 **nicocarc04/nicocarc04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
