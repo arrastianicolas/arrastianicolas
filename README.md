@@ -3,6 +3,11 @@
 
 ## 🤔 Sobre Mi
 
+🏢 Estudiante en Tecnicatura universitaria en Programación UTN.
+💻 Desarrollador Full Stack 
+🔍 Estoy en busca de incorporarme a un equipo de trabajo para poder aportar mis conocimientos y seguir aprendiendo
+
+## Tecnologias que uso...
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
