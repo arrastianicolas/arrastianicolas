@@ -32,8 +32,8 @@
 
 | Métrica             | Valor               |
 |---------------------|---------------------|
-| **Total de commits** | ![Commits](https://github-readme-stats.vercel.app/api?username=nicocarc04&count_private=true&show_icons=true&theme=radical) |
-| **Lenguajes más usados** | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicocarc04&layout=compact&theme=radical) |
+| **Total de commits** | ![Commits](https://github-readme-stats.vercel.app/api?username=arrastianicolas&count_private=true&show_icons=true&theme=radical) |
+| **Lenguajes más usados** | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrastianicolas&layout=compact&theme=radical) |
 
 ---
 
