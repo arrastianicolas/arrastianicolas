@@ -25,15 +25,13 @@
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/JavaScript_logo_2.svg/1200px-JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
