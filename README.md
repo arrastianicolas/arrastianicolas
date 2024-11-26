@@ -51,8 +51,8 @@
 
 ### 📫 ¿Cómo contactarme?
 
-- Email: [Email](mailto:nicolasarrastia04@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-arrastia-00982825b/)
+-[Email](mailto:nicolasarrastia04@gmail.com)
+-[LinkedIn](https://www.linkedin.com/in/nicolas-arrastia-00982825b/)
 
 <!--
 **nicocarc04/nicocarc04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
