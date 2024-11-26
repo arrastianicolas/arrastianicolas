@@ -3,7 +3,7 @@
 
 ## 🤔 Sobre Mi
 
-🏢 Estudiante recibido de Tecnicato universitario en Programación en la UTN.<br/>
+🏢 Estudiante recibido de Técnico universitario en Programación en la UTN.<br/>
 💻 Desarrollador Full Stack <br/>
 🔍 Estoy en busca de incorporarme a un equipo de trabajo para poder aportar mis conocimientos y seguir aprendiendo<br/>
 
