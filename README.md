@@ -41,6 +41,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" alt="JavaScript" width="50" height="50"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" alt="TypeScript" width="50" height="50"/>
+  </a>
 </p>
 
 ---
