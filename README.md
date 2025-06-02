@@ -14,17 +14,18 @@
 ### 🛠️ Tecnologías y Herramientas
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <span style="background-color: #e34c26; color: white; padding: 4px 8px; border-radius: 4px;">HTML</span>
-  <span style="background-color: #264de4; color: white; padding: 4px 8px; border-radius: 4px;">CSS</span>
-  <span style="background-color: #f0db4f; color: black; padding: 4px 8px; border-radius: 4px;">JavaScript</span>
-  <span style="background-color: #3178c6; color: white; padding: 4px 8px; border-radius: 4px;">TypeScript</span>
-  <span style="background-color: #61dafb; color: black; padding: 4px 8px; border-radius: 4px;">React</span>
-  <span style="background-color: #512bd4; color: white; padding: 4px 8px; border-radius: 4px;">ASP.NET</span>
-  <span style="background-color: #00758f; color: white; padding: 4px 8px; border-radius: 4px;">MySQL</span>
-  <span style="background-color: #38bdf8; color: white; padding: 4px 8px; border-radius: 4px;">TailwindCSS</span>
-  <span style="background-color: #f1502f; color: white; padding: 4px 8px; border-radius: 4px;">Git</span>
-</div>
+### 🛠️ Tecnologías y Herramientas
+
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512bd4?style=for-the-badge&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
